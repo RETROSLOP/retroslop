@@ -23,7 +23,7 @@
   <br>
 
    <p align="center">          
-   $${\color{#1a3834} OFFTAB　\color{#224b3f} MAJORITY　\color{#2b5e4a} OF　\color{#347255} THE　\color{#3c8560} TIME,}$$ <br>
+   $${\color{#1a3834} OFFTAB　\color{#21473d} ALMOST　\color{#285746} ALL　\color{#2e664e} OF　\color{#357657} THE　\color{#3c8560} TIME,}$$ <br>
     $${\color{#081d19} SO　\color{#091b18} WHISPER　\color{#112824} ME　\color{#183430} 2　\color{#1d3d39} GRAB　\color{#234742} MY　\color{#28504B} ATTENTION.}$$ <br>
  <br>
 
