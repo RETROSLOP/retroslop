@@ -24,7 +24,7 @@
 
    <p align="center">          
    $${\color{#1a3834} OFFTAB　\color{#224b3f} MAJORITY　\color{#2b5e4a} OF　\color{#347255} THE　\color{#3c8560} TIME,}$$ <br>
-    $${\color{#081d19} SO　\color{#0d231f} WHISPER　\color{#122a26} ME　\color{#18322e} 2　\color{#1e3a36} GRAB　\color{#23413d} MY　\color{#284743} ATTENTION.}$$ <br>
+    $${\color{#081d19} SO　\color{#0d2520} WHISPER　\color{#122c28} ME　\color{#183632} 2　\color{#1e413c} GRAB　\color{#234844} MY　\color{#28504B} ATTENTION.}$$ <br>
  <br>
 
 
@@ -34,7 +34,7 @@
  <br>
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Kings&size=25&duration=2700&pause=1000&color=5ef0a6&center=true&width=450&lines=%E2%80%98I+am+most+comfortable+in+the+suit+of+armour.%E2%80%99'.;%E2%80%98...Thou+wouldn't+understand.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Kings&size=25&duration=2700&pause=1000&color=5ef0a6&center=true&width=450&lines=%E2%80%98I+am+most+comfortable+in+the+suit+of+armour.%E2%80%99';%E2%80%98...Thou+wouldn't+understand.%E2%80%99"/>
    </p>
 
  
