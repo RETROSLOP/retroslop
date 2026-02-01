@@ -9,9 +9,9 @@
   <br>
 
    <p align="center">          
-   $${\color{#6fffcf}PEST \space / \space YVONNE.}$$ <br>
-    $${\color{#5ef0a6}IWC \space AT \space ALL \space TIMES.}$$ <br>
-    $${\color{#52c97f}MY \space HUMOUR \space IS \space NOT \space 4 \space EVERYONE.}$$ <br>
+   $${\color{#5ef0a6} PEST　/ \color{#6fffcf} YVONNE.}$$ <br>
+    $${\color{#52c97f} IWC　\color{#56d58b} AT　\color{#59e096} ALL　\color{#5ef0a6} TIMES.}$$ <br>
+    $${\color{#3c8560} MY　\color{#409366} HUMOUR　\color{#45a06c} IS　\color{#49ae73} NOT　\color{#4ebb79} 4　\color{#52c97f} EVERYONE.}$$ <br>
  <br>
 
   <br>  <br>
@@ -23,8 +23,8 @@
   <br>
 
    <p align="center">          
-   $${\color{#3c8560}OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
-    $${\color{#284743}SO \space WHISPER \space ME \space 2 \space GRAB \space MY \space ATTENTION.}$$ <br>
+   $${\color{#284743} OFFTAB　\color{#2d564a} MAJORITY　\color{#326652} OF　\color{#377659} THE　\color{#3c8560} TIME,}$$ <br>
+    $${\color{#122d28} SO　\color{#16312c} WHISPER　\color{#1a3631} ME　\color{#1d3a36} 2　\color{#213e3a} GRAB　\color{#24433e} MY　\color{#284743} ATTENTION.}$$ <br>
  <br>
 
 
