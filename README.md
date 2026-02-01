@@ -9,7 +9,7 @@
   <br>
 
    <p align="center">          
-   $${\color{#5ef0a6} PEST　/ \color{#6fffcf} YVONNE.}$$ <br>
+   $${\color{#5ef0a6} PEST　/　\color{#6fffcf} YVONNE.}$$ <br>
     $${\color{#52c97f} IWC　\color{#56d58b} AT　\color{#59e096} ALL　\color{#5ef0a6} TIMES.}$$ <br>
     $${\color{#3c8560} MY　\color{#409366} HUMOUR　\color{#45a06c} IS　\color{#49ae73} NOT　\color{#4ebb79} 4　\color{#52c97f} EVERYONE.}$$ <br>
  <br>
