@@ -2,7 +2,7 @@
   <br>
 
  <p align="center">          
-   $${\color{#381a18}✦}$$ <br>
+   $${\color{#5ef0a6}✦}$$ <br>
  <br>
 
 
@@ -10,13 +10,13 @@
 
    <p align="center">          
    $${\color{#6fffcf}PEST \space / \space YVONNE.}$$ <br>
-    $${\color{#60f3a9}IWC \space AT \space ALL \space TIMES.}$$ <br>
-    $${\color{#53d188}MY \space HUMOUR \space IS \space NOT \space 4 \space EVERYONE.}$$ <br>
+    $${\color{#5ef0a6}IWC \space AT \space ALL \space TIMES.}$$ <br>
+    $${\color{#52c97f}MY \space HUMOUR \space IS \space NOT \space 4 \space EVERYONE.}$$ <br>
  <br>
 
   <br>  <br>
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=retroslop&color=60f3a9&style=for-the-badge&label=❝+retros+❞+&base=2274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=retroslop&color=5ef0a6&style=for-the-badge&label=❝+retros+❞+&base=2274"></img></p>
  <br> 
 
 
