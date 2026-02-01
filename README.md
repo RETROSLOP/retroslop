@@ -16,7 +16,7 @@
 
   <br>  <br>
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=retroslop&color=49ae73&style=for-the-badge&label=❝+retros+❞+&base=2274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=retroslop&color=5ef0a6&style=for-the-badge&label=❝+retros+❞+&base=2274"></img></p>
  <br> 
 
 
@@ -34,7 +34,7 @@
  <br>
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Kings&size=25&duration=2700&pause=1000&color=45a06c&center=true&width=450&lines=%E2%80%98I+am+most+comfortable+in+the+suit+of+armour.%E2%80%99'.;%E2%80%98...Thou+wouldn't+understand.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Kings&size=25&duration=2700&pause=1000&color=5ef0a6&center=true&width=450&lines=%E2%80%98I+am+most+comfortable+in+the+suit+of+armour.%E2%80%99'.;%E2%80%98...Thou+wouldn't+understand.%E2%80%99"/>
    </p>
 
  
