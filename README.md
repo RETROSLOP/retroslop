@@ -19,7 +19,7 @@
   <p align="center"><img src="https://komarev.com/ghpvc/?username=retroslop&color=4ab674&style=for-the-badge&label=❝+retros+❞+&base=2274"></img></p>
  <br> 
 <p align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=retroslop&label=❝+retros+❞+&labelColor=%23285746&countColor=%234ab674&style=for+the+badge">
+<img src="https://api.visitorbadge.io/api/visitors?path=retroslop&label=+❝+RETROS+❞+&labelColor=%23285746&countColor=%234ab674&style=for+the+badge">
   <br>
 
   <br>
