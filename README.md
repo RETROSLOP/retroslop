@@ -35,7 +35,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2700&pause=1000&color=5ef0a6&center=true&width=500&lines=%E2%80%98I+am+most+comfortable+in+the+suit+of+armour.%E2%80%99;%E2%80%98...Thou+wouldn't+understand.%E2%80%99"/>
    </p>
 
- 
+<p align="center"><a href="https://pronouns.cc/yvoisen">prns.cc</a>ㅤㅤ<a href="https://yvoisen.atabook.org">新book</a>ㅤㅤ<a href="https://guns.lol/yvoisen">guns.lol</a> 
 
  
  
