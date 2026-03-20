@@ -9,7 +9,6 @@
   <br>
 
    <p align="center">          
-   $${\color{#5ef0a6} PEST　/　\color{#6fffcf} YVONNE.}$$ <br>
     $${\color{#4ab674} IWC　\color{#52c97f} AT　\color{#48c57c} ALL　\color{#5ef0a6} TIMES.}$$ <br>
     $${\color{#3c8560} MY　\color{#317f55} HUMOUR　\color{#39915f} IS　\color{#42a46a} NOT　\color{#4ab674} 4　\color{#52c97f} EVERYONE.}$$ <br>
  <br>
@@ -18,9 +17,6 @@
 
   <p align="center"><img src="https://komarev.com/ghpvc/?username=retroslop&color=4ab674&style=for-the-badge&label=❝+retros+❞+&base=2274"></img></p>
  <br> 
-<p align="center">
-<img src="https://api.visitorbadge.io/api/visitors?path=retroslop&label=+++RETROS+++&labelColor=%23285746&countColor=%234ab674&style=for+the+badge">
-  <br>
 
   <br>
 
