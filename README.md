@@ -9,14 +9,16 @@
   <br>
 
    <p align="center">          
-    $${\color{#4ab674} IWC　\color{#52c97f} AT　\color{#48c57c} ALL　\color{#5ef0a6} TIMES.}$$ <br>
+   $${\color{#4ab674} IWC　\color{#52c97f} AT　\color{#48c57c} ALL　\color{#5ef0a6} TIMES.}$$ <br>
     $${\color{#3c8560} MY　\color{#317f55} HUMOUR　\color{#39915f} IS　\color{#42a46a} NOT　\color{#4ab674} 4　\color{#52c97f} EVERYONE.}$$ <br>
  <br>
-
+  
   <br>  <br>
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=retroslop&color=4ab674&style=for-the-badge&label=❝+retros+❞+&base=2274"></img></p>
- <br> 
+
+   <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2700&pause=1000&color=5ef0a6&center=true&width=500&lines=%E2%80%98I+am+most+comfortable+in+the+suit+of+armour.%E2%80%99;%E2%80%98...Thou+wouldn't+understand.%E2%80%99"/>
+   </p>
 
   <br>
 
@@ -31,9 +33,6 @@
    $${\color{#3c8560}✦}$$ <br>
  <br>
 
-   <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2700&pause=1000&color=5ef0a6&center=true&width=500&lines=%E2%80%98I+am+most+comfortable+in+the+suit+of+armour.%E2%80%99;%E2%80%98...Thou+wouldn't+understand.%E2%80%99"/>
-   </p>
 
 <h6 align>
 <p align="center"><a href="https://pronouns.cc/yvoisen">prns.cc</a>ㅤㅤ<a href="https://yvoisen.atabook.org">新book</a>ㅤㅤ<a href="https://guns.lol/yvoisen">guns.lol</a> 
