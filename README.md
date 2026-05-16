@@ -2,40 +2,34 @@
   <br>
 
  <p align="center">          
-   $${\color{#3c8560}✦}$$ <br>
+   $${\color{#5FAB85}✦}$$ <br>
  <br>
 
 
   <br>
 
+
+<div align="center">
+ 
+<sub>${\text{\color{#560317} iwc　\color{#700421} at　\color{#90072E} all　\color{#B0093A} times ◞　\color{#A02949} my　\color{#904A58} humour　\color{#7F6A67} is　\color{#6F8B76} not⠀4　\color{#5FAB85} everyone.}}$ <br>
+${\text{\color{#560317} promise　\color{#700421} im　\color{#90072E} actually　\color{#B0093A} really　\color{#A02949} nice　\color{#904A58} 𖥻moot　\color{#7F6A67} me　\color{#6F8B76} up.}}$ <br>
+<p align="center">
+  <img src="https://file.garden/adC_TK5dkztFvB_Z/vibrantpinktealgraphic.madebyvoisen.png" width="550"/>
+</p>
+
+<div align="center">
+
+<sub>${\text{\color{#300008} read　\color{#560317} my　\color{#700421} prns⠀.⠀cc　\color{#90072E} 4　\color{#B0093A} basic　\color{#A02949} info ◞　\color{#904A58} dni　\color{#7F6A67} n　\color{#6F8B76} allat.}}$ <br>
+${\text{\color{#300008} offtab　\color{#560317} majority　\color{#700421} of　\color{#90072E} the　\color{#B0093A} time ◞　\color{#A02949} so　\color{#904A58} whisper　\color{#7F6A67} to　\color{#6F8B76} interact.}}$ <br>
+<br>
+
    <p align="center">          
-   $${\color{#4ab674} IWC　\color{#52c97f} AT　\color{#48c57c} ALL　\color{#5ef0a6} TIMES.}$$ <br>
-    $${\color{#3c8560} MY　\color{#317f55} HUMOUR　\color{#39915f} IS　\color{#42a46a} NOT　\color{#4ab674} 4　\color{#52c97f} EVERYONE.}$$ <br>
- <br>
-  
-  <br>  <br>
-
-
-   <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Almendra+SC&size=25&duration=2700&pause=1000&color=5ef0a6&center=true&width=500&lines=%E2%80%98I+am+most+comfortable+in+the+suit+of+armour.%E2%80%99;%E2%80%98...Thou+wouldn't+understand.%E2%80%99"/>
-   </p>
-
-  <br>
-
-   <p align="center">          
-   $${\color{#1a3834} OFFTAB　\color{#21473d} ALMOST　\color{#285746} ALL　\color{#2e664e} OF　\color{#357657} THE　\color{#3c8560} TIME,}$$ <br>
-    $${\color{#081d19} SO　\color{#091b18} WHISPER　\color{#112824} ME　\color{#183430} 2　\color{#1d3d39} GRAB　\color{#234742} MY　\color{#28504B} ATTENTION.}$$ <br>
- <br>
-
-
-  <br>
-   <p align="center">          
-   $${\color{#3c8560}✦}$$ <br>
+   $${\color{#5FAB85}✦}$$ <br>
  <br>
 
 
 <h6 align>
-<p align="center"><a href="https://pronouns.cc/yvoisen">prns.cc</a>ㅤㅤ<a href="https://yvoisen.atabook.org">新book</a>ㅤㅤ<a href="https://guns.lol/yvoisen">guns.lol</a> 
+<sub><a href="https://pronouns.cc/yvoisen">prns.cc</a> $\small\color{#5FAB85}{\textsf{ㅤ𓏽ㅤ}}$ <a href="https://yvoisen.atabook.org">新book</a> $\small\color{#5FAB85}{\textsf{ㅤ𓏽ㅤ}}$ <a href="https://rentry.co/vaudegoth">rentry</a> 
 
  
  
